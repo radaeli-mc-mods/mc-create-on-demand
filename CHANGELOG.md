@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.1] - 2026-11-06
+
+### Changed
+
+- Expanded the player guide with setup, ordering, and delivery instructions.
+
 ## [0.1.0] - 2026-10-25
 
 ### Added
